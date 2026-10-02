@@ -1,0 +1,6 @@
+{
+  "name": "Biologik Xilma-xillikni Huquqiy Himoya Qilish",
+  "description": "11-sinf Huquq fani o'quv loyihasi: Biologik xilma-xillikni huquqiy himoya qilish, qonuniy asoslar, huquqbuzarliklar va javobgarlik choralari.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
